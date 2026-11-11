@@ -2,6 +2,8 @@
 
 English translation patch for *Kita e. White Illumination* on the Sega Dreamcast.
 
+HUMAN TL IS IN THE WORKS
+
 **[Download v1.0 - patch and player's guide](https://github.com/RulevoiBanan/kita-e-white-illumination-english-patch/releases/download/v1.0/Kita.E.White.Illumination.ENG.patch.v1.0.zip)**
 
 > **The game is not included.** This ZIP contains the English translation patch, the player's guide and a plain-text README. You must obtain your own copy of the original Japanese Dreamcast game.
